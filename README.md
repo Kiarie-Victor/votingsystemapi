@@ -30,8 +30,6 @@ This is a secure and scalable **Spring Boot** API for a school delegate voting s
 - 🔐 Secure Login with OTP Verification with JWT Access and Refresh Tokens
 - JWT Access and Refresh Tokens
 - 🗳️ Vote Casting on Blockchain and Transactions stored in DB
-- 📊 Real-time Result Fetching from Smart Contract
-- 🗃️ Admin Election and Candidate Management (via DB or API)
 - 🔄 Refresh Token Endpoint
 - 🧪 Secure CRUD endpoints for Members
 
