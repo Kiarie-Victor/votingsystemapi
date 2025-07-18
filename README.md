@@ -140,6 +140,5 @@ blockchain.node.url=http://127.0.0.1:7545
 - `GET /api/vote/status` — Check if the logged-in student has already voted
 - `POST /api/vote/` — Cast a vote (stored on blockchain and PostgreSQL)
 
-> 📎 Refer to the attached PDF (`API_Guide.pdf`) for example requests and response formats.
 
 
